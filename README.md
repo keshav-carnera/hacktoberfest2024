@@ -9,4 +9,4 @@ Adding a new repo for hacktoberfest 2024
 3. Add the upstream remote branch of the original repo
 4. Create a PR from the forked repo to the original repo (main branch)
 
-This repo can be used for contribution. It can be used for the Hacktoberfest 2025.
+This repo can be used for contribution. It can be used for the Hacktoberfest 2025 also.
